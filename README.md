@@ -32,7 +32,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-- [Audio analysis library](python wave)
+- [Audio analysis library](https://docs.python.org/3/library/wave.html)
 - [Flutter documentation](https://flutter.dev/docs)
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/96499661/232139774-4a3664c3-a41b-4caf-9109-d6a4016e5e27.png">
