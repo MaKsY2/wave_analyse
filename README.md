@@ -39,3 +39,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <img width="348" alt="image" src="https://user-images.githubusercontent.com/96499661/232139831-b56bca9e-8894-4543-8290-6360f085fc19.png">
 
 
+# Inspired by g0tikka
+
